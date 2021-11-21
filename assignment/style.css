@@ -1,0 +1,30 @@
+header {
+    background-color: lightgrey;
+    padding-left: 10px;
+}
+
+h2 {
+    text-align: center;
+    background-color: lightgrey;
+}
+
+h3 {
+    text-align: center;
+    background-color: skyblue;
+}
+
+
+img {
+    width: 80%;
+    margin: auto;
+    padding-left: 10%
+
+}
+
+.info {
+    border: 4px solid;
+    width: fit-content;
+    margin: auto;
+    margin: 10px 150px 10px;
+    
+}
